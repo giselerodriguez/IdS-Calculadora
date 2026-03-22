@@ -26,7 +26,7 @@ Desarrollar una solución funcional aplicando un proceso de trabajo organizado, 
 
 ## Herramientas
 - Java
-- IntelliJ IDEA
+- IntelliJ IDEA / NetBeans
 - GitHub
 - Trello
 
